@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 -->
 
 
-
+<p align="center"> <img src="pokemon-skills.svg" alt="My tech stack as Pokémon cards" width="100%"> </p>
 
