@@ -56,7 +56,7 @@ Java programming and strengthening my foundation in core computer science subjec
 - **Elderly Agent AI (Maya)**: offline-first voice assistant for elderly users
 - **GitHub PR Reviewer**: Spring Boot tool for automated PR reviews
 
-## 📊 GitHub Stats:
+
 
 ## 📊 GitHub Stats:
 
