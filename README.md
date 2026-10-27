@@ -22,7 +22,7 @@ I'm currently working on
 Improving my programming skills as a B.Tech CSE student and building small projects to strengthen my understanding of computer science concepts. Building full-stack and AI-integrated projects with Java, Spring Boot and React, including LLM/RAG features using Ollama and pgvector.
 
 I'm looking to collaborate on  
-Beginner-friendly development projects and innovative ideas that help me gain practical experience in software development. Also open-source projects (preparing for GSoC 2027) and backend or AI-native applications.
+Beginner-friendly development projects and innovative ideas that help me gain practical experience in software development. Also open-source projects  and backend or AI-native applications.
 
 I'm currently learning  
 Java programming and strengthening my foundation in core computer science subjects. Also system design, microservices and DSA, while preparing for SDE internships.
@@ -58,7 +58,9 @@ Java programming and strengthening my foundation in core computer science subjec
 
 ## 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LOKESH-sys365&show_icons=true&theme=dark)
+## 📊 GitHub Stats:
+
+![GitHub Metrics](github-metrics.svg)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LOKESH-sys365&layout=compact&theme=dark)
 
